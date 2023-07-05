@@ -1,5 +1,6 @@
 ![Screenshot 2023-07-05 210758](https://github.com/arachchigechalani/react-weather-app/assets/91431227/07faa731-33f7-4d5a-a2d6-17a594ea0533)
 
+![Screenshot 2023-07-05 210839](https://github.com/arachchigechalani/react-weather-app/assets/91431227/189c7b38-2fbc-43d9-acec-cf283159c3bf)
 
 # Getting Started with Create React App
 
