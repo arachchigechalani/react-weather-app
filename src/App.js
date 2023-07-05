@@ -1,5 +1,5 @@
-
 import './App.css';
+import styled from "styled-components"
 import Weather from './components/weather/Weather';
 
 function App() {
@@ -7,6 +7,7 @@ function App() {
     <div className="App">
         <p>
           <Weather/>
+          
         </p>
     </div>
   );
